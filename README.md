@@ -59,7 +59,6 @@ var imag = z.imag;
 
 A `Complex64` instance has the following methods...
 
-===
 ### Accessor Methods
 
 These methods do **not** mutate a `Complex64` number and, instead, return some representation.
@@ -221,6 +220,8 @@ Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 [tape]: https://github.com/substack/tape
 [istanbul]: https://github.com/gotwarlost/istanbul
 [testling]: https://ci.testling.com
+
+[compute-io]: https://github.com/compute-io/
 
 [json]: http://www.json.org/
 [json-stringify]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
