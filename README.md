@@ -61,7 +61,7 @@ A `Complex64` instance has the following methods...
 
 ### Accessor Methods
 
-These methods do **not** mutate a `Complex64` number and, instead, return some representation.
+These methods do **not** mutate a `Complex64` instance and, instead, return some representation.
 
 <a name="complex64-tostring"></a>
 #### Complex64.prototype.toString()
